@@ -16,6 +16,10 @@ If you prefer Docker, there is a pre-built Docker image as well:
 docker pull kfei/slack-cleaner
 ```
 
+## Generating a Token
+This app currently only works as a legacy integration. Generate a legacy token from here -  
+https://api.slack.com/custom-integrations/legacy-tokens
+
 ## Usage
 
 ```bash
